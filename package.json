@@ -34,7 +34,7 @@
     "gulp-replace": "1.0.0",
     "gulp-rev": "8.1.1",
     "gulp-rev-rewrite": "1.1.1",
-    "gulp-sass": "4.0.1",
+    "gulp-sass": "6.0.0",
     "gulp-uglify": "3.0.1",
     "gulp-uglifycss": "1.1.0",
     "node-sass-tilde-importer": "1.0.2",
