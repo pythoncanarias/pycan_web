@@ -26,7 +26,7 @@
     "babel-preset-env": "1.7.0",
     "del": "3.0.0",
     "eslint": "5.2.0",
-    "gulp": "4.0.0",
+    "gulp": "5.0.0",
     "gulp-babel": "7.0.1",
     "gulp-concat": "2.6.1",
     "gulp-noop": "1.0.0",
@@ -40,7 +40,7 @@
     "node-sass-tilde-importer": "1.0.2",
     "rollup-plugin-node-resolve": "^3.4.0",
     "rollup-stream": "^1.24.1",
-    "stylelint": "9.4.0",
+    "stylelint": "16.14.1",
     "stylelint-config-standard": "18.2.0",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
